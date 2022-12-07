@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #3CB371 ;
+}
+h1{
+    text-align: center;
+}
+.pegaCEP{
+    width: 20vw;
+    height: 30vh;
+    float: left;
+    margin-left: 40%;
+    text-align: center;
+    margin-top: 2vh;
+    background-color: #98FB98;
+    border-radius: 15px;
+}
+label{
+    margin-top: 3vh;
+}
+input{
+    border-radius: 10px;
+    margin-bottom: 1vh;
+}
+button{
+    margin-top: 8vh;
+}
+.resultado{
+    width: 20vw;
+    height: 35vh;
+    float: left;
+    margin-left: 40%;
+    text-align: left;
+    margin-top: 2vh;
+    background-color: #98FB98;
+    border-radius: 15px;
+}
+h2{
+    margin: 1vw;
+    text-align: center;
+    font-size: 1.5vw;
+}
+p{
+    margin-left: 0.5vw;
+}
+
